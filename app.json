@@ -1,0 +1,23 @@
+{
+  "pages": [
+    "pages/youlian/youlian"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "友情链接",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh":true,
+    "onReachBottomDistance":200
+  },
+  "navigateToMiniProgramAppIdList":[
+    "wxc479c52fc974f8b6",
+    "wx8a6365c417531c80",
+    "wx7b0eb47b661310e7",
+    "wxf122306e39be70d7",
+    "wx17ccaeaabf08a338",
+    "wxe96df2296367e7a1",
+    "wxca68464e8b3e86c8"
+  ]
+}

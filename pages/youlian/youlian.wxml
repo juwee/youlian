@@ -1,0 +1,38 @@
+   <view class="bar">      
+    <view class='moreBarText'>更多好玩</view>
+    <scroll-view class='moreBar' scroll-x >
+        <view class='moreApp'>
+            <image src='../../images/youlian/xiaozhumaoxian.jpg' bindtap='navigateToXiaoZhu' style='' />
+            <view class='moreAppText'>小猪冒险</view>   
+        </view>
+        <view class='moreApp'>
+            <image src='../../images/youlian/wenzibao.png' bindtap='navigateToWenZiBao' style='' />
+            <view class='moreAppText'>文字宝</view>   
+        </view>
+         
+         <view class='moreApp'>
+            <image src='../../images/youlian/24jieqi.png' bindtap='navigateToJieQi' style='' />
+            <view class='moreAppText'>24节气</view>   
+        </view>
+        
+        <view class='moreApp'>
+            <image src='../../images/youlian/haibaopintu.png' bindtap='navigateToPinTu' style='' />
+            <view class='moreAppText'>海报拼图</view>   
+        </view>
+        <view class='moreApp'>
+            <image src='../../images/youlian/haoyangmao.jpg' bindtap='navigateToHaoYangMao' style='' />
+            <view class='moreAppText'>薅羊毛</view>   
+        </view>
+        <view class='moreApp'>
+            <image src='../../images/youlian/wuziqi.jpg' bindtap='navigateToWuZiQi' style='' />
+            <view class='moreAppText'>五子棋</view>   
+        </view>
+        <view class='moreApp'>
+            <image src='../../images/youlian/chuanyibiaoqing.png' bindtap='navigateToBiaoQing' style='' />
+            <view class='moreAppText'>传意表情</view>   
+        </view>
+                  
+       
+    </scroll-view>
+
+  </view>
